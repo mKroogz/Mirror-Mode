@@ -1,0 +1,20 @@
+.outputs {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    width: 50%;
+}
+
+#out1 {
+    border: blue solid 1px; 
+    width: 48%; 
+    display: flex;
+    justify-content: center;
+}
+
+#out2 {
+    border: red solid 1px;
+    width: 48%; 
+    display: flex;
+    justify-content: center;
+}
